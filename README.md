@@ -12,9 +12,9 @@ Ici, vous pourrez trouver diverses ressources, regroupées par thème, et par la
 
 # 👨‍🎓 • Liens vers les ressources
 
-| Langage / Thème | Présentation  | Cours         | Tutoriels     | Défis / Jeux  |
-| --------------- | ------------- | ------------- | ------------- | ------------- |
-| HTML/CSS        | En attente    | En attente    | En attente    | En attente    |
+| Langage / Thème | Présentation                                                                          | Cours         | Tutoriels     | Défis / Jeux  |
+| --------------- | ------------------------------------------------------------------------------------- | ------------- | ------------- | ------------- |
+| HTML/CSS        | Cliquez [ici](https://github.com/allanzpc/learn-code/blob/main/html-css/README.md)    | En attente    | En attente    | En attente    |
 
 # 📰 • Sources
 
