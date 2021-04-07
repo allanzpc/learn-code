@@ -19,8 +19,8 @@ La seule chose : Vous devrez avoir un éditeur de code, tel que [Sublime Text](h
 # 😎 • Alors, convaincu ?
 Et bien, c'est partit ! Commençons dès à présent le cours !
 
-- Introduction
-  - Le fonctionnement d'une page web
+- [Introduction](https://github.com/allanzpc/learn-code/tree/main/html-css/cours/%23%200%20-%20Introduction)
+  - [Le fonctionnement d'une page web](https://github.com/allanzpc/learn-code/blob/main/html-css/cours/%23%200%20-%20Introduction/Le%20fonctionnement%20d'une%20page%20web.md)
 
 # 📰 • Autres ressources
 Retrouvez, très bientôt, divers tutoriels et défis !
